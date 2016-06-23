@@ -1,0 +1,21 @@
+#    !!!! DO NOT EDIT - DO NOT EDIT - DO NOT EDIT 
+#    Generated with  'pip freeze'
+#    Updated requirements-dev.txt and launch 'make freeze'
+
+
+-e git+https://github.com/mozes/smpp.pdu@0536276ecd8c18db8939a3e0de6bb7a89f0768c9#egg=smpp.pdu-master
+-e git+https://github.com/mozes/smpp.twisted@887e1640532d93929187d6b9541c686f019dab45#egg=smpp.twisted-master
+Twisted==14.0.2
+argparse==1.2.1
+cffi==1.7.0
+cryptography==1.4
+enum34==1.1.6
+enum==0.4.6
+idna==2.1
+ipaddress==1.0.16
+pyOpenSSL==16.0.0
+pyasn1==0.1.9
+pycparser==2.14
+six==1.10.0
+wsgiref==0.1.2
+zope.interface==4.2.0

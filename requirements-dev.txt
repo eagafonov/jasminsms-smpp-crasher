@@ -1,0 +1,2 @@
+-e smpp.pdu
+twisted<15

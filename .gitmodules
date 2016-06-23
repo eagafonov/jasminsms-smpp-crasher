@@ -1,0 +1,6 @@
+[submodule "supermake"]
+	path = supermake
+	url = https://github.com/eagafonov/supermake
+[submodule "smpp.pdu"]
+	path = smpp.pdu
+	url = https://github.com/eagafonov/smpp.pdu
